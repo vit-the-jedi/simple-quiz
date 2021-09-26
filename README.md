@@ -10,7 +10,7 @@ Feel free to update the promptList object with your custom questions + values. I
 
 All values must be number values - the js adds all values at the end of the quiz to make decisions based on the total amount.
 
-Feel free to update the if else conditions within funishPrompts() function to reflect your desired outcome + updated promptList.values.
+Feel free to update the if else conditions within finishPrompts() function to reflect your desired outcome + updated promptList.values.
 
 # Reach out
 Submit a PR or email me at mattvitellodesign@gmail.com
